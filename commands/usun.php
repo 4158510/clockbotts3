@@ -1,17 +1,4 @@
 <?php
-/***************************
-
-Author: Artur ArrMeeR Fijalkowski
-
-Contact: ts3-move.pl
-
-Command: Channel
-
-***************************/
-
-require_once 'config/teamspeak.php';
-require_once 'include/ts3admin.class.php';
-
 
 function channel($arguments)
 {
